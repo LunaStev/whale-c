@@ -2,6 +2,11 @@
 
 This repository is an experimental C compiler for the Whale toolchain and extracts Whale IR.
 
+run command:
+```bash
+cargo run -p whale-c -- examples/demo.c
+```
+
 `demo.c`
 
 ```c
